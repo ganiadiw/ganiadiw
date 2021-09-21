@@ -1,4 +1,4 @@
-## Hi, Gani Adi Wiranata here
+## Hi, Gani Adi Wiranata here 👋
 
 ### Some of technologies I learn :
 
