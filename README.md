@@ -1,6 +1,6 @@
-## Hi, Gani Adi Wiranata here
+## Hi, Gani Adi Wiranata here 👋
 
-### What i'm learning :
+### What am i learning :
 
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel)
