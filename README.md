@@ -8,5 +8,5 @@
 
 ### Some of my Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ganiadiw&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ganiadiw&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganiadiw&layout=compact&theme=tokyonight)
