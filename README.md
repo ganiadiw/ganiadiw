@@ -1,5 +1,7 @@
 ## Hi, Gani Adi Wiranata here 👋
 
+### Love to Learn and Practice it
+
 ### Some of technologies I learn :
 
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php)
